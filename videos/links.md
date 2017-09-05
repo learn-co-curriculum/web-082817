@@ -5,3 +5,4 @@
 3. [Intro to Objects](http://youtu.be/1kS042xdn8E) | [Code](https://github.com/learn-co-curriculum/web-082817-intro-to-oo)
 4. [Object Relations](https://www.youtube.com/watch?v=Xm-f-_QCgUI&feature=youtu.be) | [Code](https://github.com/learn-co-curriculum/oo-relations-web-082817)
 5. [Has Many Through and Object Architecture](http://youtu.be/CCczH9EL_Uw)| [Code](https://github.com/learn-co-curriculum/oo-relations-web-082817) | [My Pets](https://github.com/learn-co-curriculum/my-pets-redo-082817)
+6. [Intro to ORMs](http://youtu.be/fbXSQ7ehoW8) | [Code](https://github.com/learn-co-curriculum/orm-intro-web-082817)
