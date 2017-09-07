@@ -7,3 +7,4 @@
 5. [Has Many Through and Object Architecture](http://youtu.be/CCczH9EL_Uw)| [Code](https://github.com/learn-co-curriculum/oo-relations-web-082817) | [My Pets](https://github.com/learn-co-curriculum/my-pets-redo-082817)
 6. [Intro to ORMs](http://youtu.be/fbXSQ7ehoW8) | [Code](https://github.com/learn-co-curriculum/orm-intro-web-082817)
 7. [Dynamic ORMs](http://youtu.be/natwouhoYso) | [Code](https://github.com/learn-co-curriculum/orm-intro-web-082817)
+8. [ActiveRecord - Migrations and Relationships] (video coming soon) | [Code](https://github.com/learn-co-curriculum/active-record-intro-web-082817/) | [Has Many Through](https://github.com/learn-co-curriculum/ar-associations-web-082817/)
