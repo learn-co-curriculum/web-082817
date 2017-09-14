@@ -8,3 +8,4 @@
 6. [Intro to ORMs](http://youtu.be/fbXSQ7ehoW8) | [Code](https://github.com/learn-co-curriculum/orm-intro-web-082817)
 7. [Dynamic ORMs](http://youtu.be/natwouhoYso) | [Code](https://github.com/learn-co-curriculum/orm-intro-web-082817)
 8. [ActiveRecord - Migrations and Relationships](http://youtu.be/Bq4qNgPfMOo) | [Migrations and Fundamentals Code](https://github.com/learn-co-curriculum/active-record-intro-web-082817/) | [Has Many Through Code](https://github.com/learn-co-curriculum/ar-associations-web-082817/)
+9. [CLI Project Refactoring](video coming soon) | [Adapter Pattern Code](https://github.com/learn-co-curriculum/adapter-pattern-web-082817/) | [AR Query Methods Code](https://github.com/learn-co-curriculum/ar-query-methods-web-082817/)
