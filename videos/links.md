@@ -13,4 +13,4 @@
 
 ## Module 2
 
-1. [Rails `form_for`](video coming soon) | [Code](https://github.com/learn-co-curriculum/student-lister-web-082817)
+1. [Rails `form_for`](http://youtu.be/dEWc2WODMRg) | [Code](https://github.com/learn-co-curriculum/student-lister-web-082817)
