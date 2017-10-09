@@ -14,3 +14,7 @@
 ## Module 2
 
 1. [Rails `form_for`](http://youtu.be/dEWc2WODMRg) | [Code](https://github.com/learn-co-curriculum/student-lister-web-082817)
+
+## Module 3
+
+1. [Intro to JS & How to do the Labs](http://youtu.be/lOqfEaRT9Z0) | [Code](https://github.com/learn-co-curriculum/js-intro-web-082817)
