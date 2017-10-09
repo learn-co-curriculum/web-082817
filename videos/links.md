@@ -18,4 +18,4 @@
 ## Module 3
 
 1. [Intro to JS & How to do the Labs](http://youtu.be/lOqfEaRT9Z0) | [Code](https://github.com/learn-co-curriculum/js-intro-web-082817)
-2. [Functions! Callbacks & Closures](video coming soon) | [Code](https://github.com/learn-co-curriculum/js-intro-web-082817)
+2. [Functions! Callbacks & Closures](http://youtu.be/TsKzHfLUj94) | [Code](https://github.com/learn-co-curriculum/js-intro-web-082817)
