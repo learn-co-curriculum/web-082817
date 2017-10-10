@@ -19,3 +19,4 @@
 
 1. [Intro to JS & How to do the Labs](http://youtu.be/lOqfEaRT9Z0) | [Code](https://github.com/learn-co-curriculum/js-intro-web-082817)
 2. [Functions! Callbacks & Closures](http://youtu.be/TsKzHfLUj94) | [Code](https://github.com/learn-co-curriculum/js-intro-web-082817)
+3. [Functional Programming, Module Pattern, iifes](http://youtu.be/eIuSpZRUibE) | [Code](https://github.com/learn-co-curriculum/js-intro-web-082817)
