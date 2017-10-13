@@ -22,3 +22,4 @@
 3. [Functional Programming, Module Pattern, iifes](http://youtu.be/eIuSpZRUibE) | [Code](https://github.com/learn-co-curriculum/js-intro-web-082817)
 4. [Function Context & Object Orientation](http://youtu.be/G9wr4S1nMIQ) | [Code](https://github.com/learn-co-curriculum/js-function-context)
 5. [The DOM & Events](http://youtu.be/uBVW7KhDHg8)
+6.[The DOM & OO](http://youtu.be/ti8cf9zasps) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-082817/tree/pre-ajax)
