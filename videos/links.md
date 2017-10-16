@@ -23,3 +23,4 @@
 4. [Function Context & Object Orientation](http://youtu.be/G9wr4S1nMIQ) | [Code](https://github.com/learn-co-curriculum/js-function-context)
 5. [The DOM & Events](http://youtu.be/uBVW7KhDHg8) 
 6. [The DOM & OO](http://youtu.be/ti8cf9zasps) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-082817/tree/pre-ajax)
+7.[AJAX](http://youtu.be/3z9zxrvGdxU) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-082817/tree/ajax)
