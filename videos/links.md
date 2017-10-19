@@ -24,4 +24,5 @@
 5. [The DOM & Events](http://youtu.be/uBVW7KhDHg8) 
 6. [The DOM & OO](http://youtu.be/ti8cf9zasps) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-082817/tree/pre-ajax)
 7. [AJAX](http://youtu.be/3z9zxrvGdxU) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-082817/tree/ajax)
-8. [Rails API](http://youtu.be/SvV9l8gqAeU) | [Frontend App](https://github.com/learn-co-curriculum/zoo-keepr-frontend/tree/web-082817) | [Backend App](https://github.com/learn-co-curriculum/082817-zoo-keepr-backend)
+8. [Rails API pt. i](http://youtu.be/SvV9l8gqAeU) | [Frontend App](https://github.com/learn-co-curriculum/zoo-keepr-frontend/tree/web-082817) | [Backend App](https://github.com/learn-co-curriculum/082817-zoo-keepr-backend)
+9. [Rails API pt. ii](http://youtu.be/K56VHuXQ7HI) | Same repos as above
