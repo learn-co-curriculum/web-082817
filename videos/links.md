@@ -26,3 +26,7 @@
 7. [AJAX](http://youtu.be/3z9zxrvGdxU) | [Code](https://github.com/learn-co-curriculum/books-async-example-app-web-082817/tree/ajax)
 8. [Rails API pt. i](http://youtu.be/SvV9l8gqAeU) | [Frontend App](https://github.com/learn-co-curriculum/zoo-keepr-frontend/tree/web-082817) | [Backend App](https://github.com/learn-co-curriculum/082817-zoo-keepr-backend)
 9. [Rails API pt. ii](http://youtu.be/K56VHuXQ7HI) | Same repos as above
+
+## CS Interlude
+- [Big O](http://youtu.be/ExVY7UUMC9Q)
+- [Recursion Workshop](https://www.youtube.com/watch?v=p1NAfvrPmfU&feature=youtu.be)
