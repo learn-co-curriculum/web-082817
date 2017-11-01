@@ -28,6 +28,7 @@
 9. [Rails API pt. ii](http://youtu.be/K56VHuXQ7HI) | Same repos as above
 
 ## Module 4
+1. [Intro React](https://youtu.be/RRSb00-o_kE)
 2. [React Forms](https://youtu.be/OWTs30tdGdE)
 3. [React Form Review](https://www.youtube.com/watch?v=O8Tjsl0ZEqA&feature=youtu.be)
 
