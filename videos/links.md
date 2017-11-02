@@ -27,11 +27,11 @@
 8. [Rails API pt. i](http://youtu.be/SvV9l8gqAeU) | [Frontend App](https://github.com/learn-co-curriculum/zoo-keepr-frontend/tree/web-082817) | [Backend App](https://github.com/learn-co-curriculum/082817-zoo-keepr-backend)
 9. [Rails API pt. ii](http://youtu.be/K56VHuXQ7HI) | Same repos as above
 
-## Module 4
+## Module 4 
 1. [Intro React](https://youtu.be/RRSb00-o_kE)
 2. [React Forms](https://youtu.be/OWTs30tdGdE)
 3. [React Form Review](https://www.youtube.com/watch?v=O8Tjsl0ZEqA&feature=youtu.be)
-4. [React Events and Callbacks](https://youtu.be/7XExX0Vh-MU)
+4. [React Events and Callbacks](https://youtu.be/7XExX0Vh-MU) | [Code](https://github.com/johannkerr/flatironboard)
 
 ## CS Interlude
 - [Big O](http://youtu.be/ExVY7UUMC9Q)
