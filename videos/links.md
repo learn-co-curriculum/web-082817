@@ -32,6 +32,7 @@
 2. [React Forms](https://youtu.be/OWTs30tdGdE)
 3. [React Form Review](https://www.youtube.com/watch?v=O8Tjsl0ZEqA&feature=youtu.be)
 4. [React Events and Callbacks](https://youtu.be/7XExX0Vh-MU) | [Code](https://github.com/johannkerr/flatironboard)
+5. [React Router](https://youtu.be/hq8VXFP8Ufw)
 
 ## CS Interlude
 - [Big O](http://youtu.be/ExVY7UUMC9Q)
