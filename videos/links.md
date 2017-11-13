@@ -33,10 +33,10 @@
 3. [React Form Review](https://www.youtube.com/watch?v=O8Tjsl0ZEqA&feature=youtu.be)
 4. [React Events and Callbacks](https://youtu.be/7XExX0Vh-MU) | [Code](https://github.com/johannkerr/flatironboard)
 5. [React Router](https://youtu.be/hq8VXFP8Ufw)
-6. [React Router Part two](https://youtu.be/7hXkcMz1CeQ)
-7. [HOC](https://youtu.be/KvVDXV9LQXc)
-8. [React Auth Intro](https://youtu.be/MwQrWyMByTM)
-9. [React Auth Part 2](https://youtu.be/PGATHvj878A)
+6. [React Router Part two](https://youtu.be/7hXkcMz1CeQ) 
+7. [React Auth Intro](https://youtu.be/MwQrWyMByTM)
+8. [HOC](https://youtu.be/KvVDXV9LQXc)
+9. [React Auth Part 3](https://youtu.be/PGATHvj878A)
 
 ## CS Interlude
 - [Big O](http://youtu.be/ExVY7UUMC9Q)
