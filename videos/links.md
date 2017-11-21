@@ -38,6 +38,12 @@
 8. [HOC](https://youtu.be/KvVDXV9LQXc)
 9. [React Auth Part 3](https://youtu.be/PGATHvj878A)
 
+
+## Module 5
+1. [Redux Intro](https://youtu.be/Fn4L7fn8YCA)
+2. [Redux Intro Part 2](https://youtu.be/UqYOKBWE7jU)
+3. [Redux Thunk](https://youtu.be/StE_omeWuuo)
+
 ## CS Interlude
 - [Big O](http://youtu.be/ExVY7UUMC9Q)
 - [Recursion Workshop](https://www.youtube.com/watch?v=p1NAfvrPmfU&feature=youtu.be)
